@@ -48,7 +48,7 @@ Open the **Upload** tab.
 
 > **Every file name must carry a version:** `_V1`, ` V2`, `-v03`, etc. (upper or lower case, after `_`, a space or `-`). Files without one are turned away. The version decides what's newer: `Hero_V3.mp4` replaces a video called `Hero_V2`.
 
-1. **Project:** type the project name from the Bexmedia Project Creator, for example `#20260022 Mosaique Autoglym Accessories - …`.
+1. **Project:** type the project name from the Bexmedia Project Creator, for example `#20260001 Client Name - Project Title`.
 2. **Folder:** browse the team library and pick the client folder. The app creates the project folder inside it, or uses the existing one (it tells you if the name already exists).
 3. **Videos:** choose one or many files (`.mp4`, `.mov`, `.m4v`, `.mxf`).
 4. **Empty folder:** they upload straight in. **Folder with videos:** choose **Replace videos** or **Add new videos**.
@@ -98,6 +98,7 @@ You always see exactly what will go. Anything with unseen comments, or uploaded 
 - **Download:** select videos, choose what to save (the video file in the qualities Vimeo has, the transcript `.txt`, the subtitles `.vtt`) and a folder. Each file shows its progress and an **Open location** button. Nothing already in the folder is overwritten.
 - **Thumbnails:** rest the pointer on a video row to see its thumbnail.
 - **Live alerts:** the app checks Vimeo every minute for new uploads and versions, and every five minutes for new comments. When something changes you get a pink line in the footer and a soft chime: for new comments on *your* videos, new uploads, and new versions. **Sound on / Sound off** in the header turns the chime on or off. Vimeo can't push alerts to a desktop app, which is why the app looks for them itself.
+- **Dark or light:** the app opens in its dark theme. **Dark theme / Light theme** in the header, next to **Sound on / Sound off**, switches straight away without losing your place, and the app remembers your choice. It waits while an upload, download or deletion is running.
 
 ## 6. Updates
 
